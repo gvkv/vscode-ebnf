@@ -9,7 +9,7 @@ patterns:
 repository:
     concatenate-symbol:
         name: keyword.operator.concatenate.ebnf
-        match: ','
+        match: '+'
 
     defining-symbol:
         name: keyword.operator.define.ebnf
